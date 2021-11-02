@@ -505,5 +505,3 @@ Hope you learned something new today!
 Don't hesitate to comment below to raise any queries or suggestions.
 
 Will see you guys very very soon!! :)
-
-%%[promo]
