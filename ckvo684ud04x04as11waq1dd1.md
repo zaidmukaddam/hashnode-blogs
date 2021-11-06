@@ -1,9 +1,8 @@
 ## Wassword: A wonderful password generator built in Flutter
 
-Hi, in this post I want to show you one of the most loved side projects that a long time ago introduce me to Flutter. In these years I made lots of changes and experiments with this project and I want to share with you the final result to date.
+Hi, in this post I want to show you one of the most cool side projects that a long time ago introduce me to Flutter. In these months I made lots of changes and experiments with this project and I want to share with you the final result to date.
 
 Wassword is a password generator and as said in its description:
-
 
 > "With Wassword you can easily generate complex passwords and use them for your online accounts. Choose length and chars to be used and generate your passwords safely. Everything works offline and nothing is shared, your safety comes first."
 
