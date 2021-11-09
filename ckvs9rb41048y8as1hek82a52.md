@@ -1,6 +1,7 @@
 ## How to Brute Force ZIP File Passwords in Python
 
-Say you're tasked to investigate a suspect's computer and you find a zip file that seems very useful but protected with a password. In this tutorial, you will write a simple, but yet precise Python script that tries to crack a zip file's password using [dictionary attack](https://en.wikipedia.org/wiki/Dictionary_attack).
+Hey Guys!
+Say you're tasked to investigate a suspect's computer and you find a zip file that seems very useful but protected with a password. In this blog, you will write a simple, but yet precise Python script that tries to crack a zip file's password using [dictionary attack](https://en.wikipedia.org/wiki/Dictionary_attack).
 
 We will be using Python's `built-in` **zipfile** module, and the third-party  [tqdm](https://github.com/tqdm/tqdm)  library for quickly printing progress bars:
 
