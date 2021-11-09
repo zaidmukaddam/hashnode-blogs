@@ -9,7 +9,7 @@ We will be using Python's `built-in` **zipfile** module, and the third-party  [t
 pip3 install tqdm
 ``` 
 
-As I have mention, we are going use dictionary attack, which means we need a wordlist to brute force this password-protected zip file. For this tutorial, we are going to use the big rockyou wordlist (with the size of about 133MB), if you're on Kali Linux, you can find it under the `/usr/share/wordlists/rockyou.txt.gz` path. Otherwise, you can download it [here](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) .
+As I have mentioned, we are going to use a dictionary attack, which means we need a wordlist to brute force this password-protected zip file. For now, we are going to use the big rockyou wordlist (with the size of about 133MB), if you're on Kali Linux, you can find it under the `/usr/share/wordlists/rockyou.txt.gz` path. Otherwise, you can download it [here](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) .
 
 You can also  [use crunch tool to generate your custom wordlist](https://www.rootinstall.com/tutorial/creating-custom-wordlists-using-crunch-utility/)  as you exactly specify.
 
