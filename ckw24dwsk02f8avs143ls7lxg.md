@@ -1,7 +1,6 @@
 ## Linux for Hackers EP02 | Start Using Terminal
 
 Hello beautiful people! After a long time, here I bring the 2nd Episode of the Linux for Hackers Series.
-Actually, I’m really sorry for the delay, I’m dead busy with my university stuff these days. That’s the reason, Anyway, I try to bring new articles as soon as I can…
 
 When it comes to Terminal, It’s the truly wheeled power of Linux. So please don’t use GUI in Linux. You should use Terminal instead of it.
 
