@@ -2,12 +2,12 @@
 
 Hello, beautiful people. I'm very happy and excited to introduce Mini Feed, the one stop shop for content you love.
 
-# The Story Behind Mini Feed
+## The Story Behind Mini Feed
 I've been practicing digital minimalism for some time now. Some days, I even refrain from using the Internet altogether. In my quest for digital minimalism, I often missed out on the content I truly enjoy, which sometimes made me break the digital minimalism rules and spend hours surfing the web. You all know how distracting and noisy the internet can be.
 
 As I searched for solutions to this situation, I found few digital tools to assist in the process. However, the satisfaction you get when you make your own solution is unbeatable. So I decided to create my own app to stay up to date with the content and people that interest me without being distracted or spending more time.
 
-# Mini Feed Walkthrough
+## Mini Feed Walkthrough
 
 Try Mini Feed -  [mini-feed.vercel.app](https://mini-feed.vercel.app) 
 
@@ -62,7 +62,7 @@ Enjoy all your favorite content on any device and in dark mode as well.
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1637673563557/JRLyED6gS.png)
 
-# Tech Stack
+## Tech Stack
 
 - NextJS
 
