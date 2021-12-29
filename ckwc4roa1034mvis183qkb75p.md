@@ -15,7 +15,7 @@ Link to the repo - github.com/zaidmukaddam/mini-feed
 
 Watch this short video to see how Mini Feed works.
 
-<iframe width="600" height="500" src="https://www.youtube.com/embed/cYvI8qKOfLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="400" src="https://www.youtube.com/embed/cYvI8qKOfLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sign-up/Login using your GitHub or Google account. More social login options will be integrated soon.
 
