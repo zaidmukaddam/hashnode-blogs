@@ -63,7 +63,7 @@ Step 2: Share it with your friends
 Step 3: Praise your friends back
 
 
-## How I built it
+# How I built it
 ### Choosing the stack
 - Database - Easy choice and you know why! HarperDB to the rescue!
 - Authentication - I didn't feel comfortable going through sensitive information, so I chose a trustworthy Auth0 which also supports login with third-party services such as Google.
