@@ -67,7 +67,7 @@ Step 3: Praise your friends back
 ### Choosing the stack
 - Database - Easy choice and you know why! HarperDB to the rescue!
 - Authentication - I didn't feel comfortable going through sensitive information, so I chose a trustworthy Auth0 which also supports login with third-party services such as Google.
-- Front End & Back End - I wanted to use TypeScript for everything and manage APIs easily. Loved using React and also heard about the Next.JS for quite some time. Next.JS fulfills all my wishes so I definitely should try it out.
+- Front End & Back End - I wanted to use TypeScript for everything and manage APIs easily. Loved using React and Next.JS. Next.JS fulfills all my wishes so I definitely should try it out.
 - Deployment - Since I chose Next.JS, Vercel as the main contributor behind it supports deployment for it like no one else. Only a few clicks away from deploying the app's front end and back end automatically. Super easy to setup!
 
 ### Database
